@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.button1{
+    background-color: #7337d3;
+    color: #ffffff;
+    border: 2px solid #7897df;
+    padding: 10px 20px;
+    
+}
+
+
+.button2{
+    background-color: #bb1a1a;
+    color: #ffffff;
+    border: 2px solid #ef7f81;
+    padding: 20px 40px;
+    
+}
+
+
+#blueButton{
+    font-size: 16px;
+    transition: 0.5s;
+}
+
+#blueButton:hover{
+    border-radius: 20px;
+transition: 0.5s;
+}
+
+
+
+#redButton{
+    font-size: 24px;
+    transition: 0.5;
+}
+
+#redButton:hover{
+    padding: 22px 50px;
+transition: 0.5s;
+}
+
+
+
+
+.button-shadow{
+    
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+    
+}
+
+
+
+
+
